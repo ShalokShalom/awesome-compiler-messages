@@ -6,7 +6,7 @@ Solution messages instead of error messages
 
 *) [Rust](https://blog.rust-lang.org/2016/08/10/Shape-of-errors-to-come.html)
 
-*) [Dotty(Scala 3)](https://www.scala-lang.org/blog/2016/10/14/dotty-errors.html
+*) [Dotty(Scala 3)](https://www.scala-lang.org/blog/2016/10/14/dotty-errors.html)
 
 *) [Reason/Bucklescript](https://reasonml.github.io/blog/2017/08/25/way-nicer-error-messages.html)
 
