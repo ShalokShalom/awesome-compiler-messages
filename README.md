@@ -1,5 +1,7 @@
 Elm like compiler messages.
+
 Solution messages instead of error messages.
+
 In chronical order of appearance. 
 
 *) [Elm](https://elm-lang.org/blog/compiler-errors-for-humans)
