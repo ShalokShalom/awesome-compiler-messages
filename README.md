@@ -1,8 +1,5 @@
-Elm like compiler messages.
+Elm like compiler messages means solution messages instead of error messages.
 
-Solution messages instead of error messages.
-
-In chronical order of appearance. 
 
 *) [Elm](https://elm-lang.org/blog/compiler-errors-for-humans)
 
@@ -19,4 +16,8 @@ In chronical order of appearance.
 *) [Eta](https://twitter.com/jyothsnasrin/status/1037703436043603968)
 
 *) [Purescript](https://www.youtube.com/watch?v=5AtyWgQ3vv0)
+
+
+
+In chronical order of appearance.
 
