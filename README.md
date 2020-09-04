@@ -1,4 +1,4 @@
-Elm like compiler messages means solution messages instead of error messages.
+Elm inspired compiler messages = solutions instead of error messages.
 
 
 *) [Elm](https://elm-lang.org/blog/compiler-errors-for-humans)
@@ -19,5 +19,5 @@ Elm like compiler messages means solution messages instead of error messages.
 
 
 
-In chronical order of appearance.
+
 
